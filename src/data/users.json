@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "fullName": "Alex Green",
+    "email": "alex@example.com",
+    "role": "admin",
+    "createdAt": "2025-09-01T22:00:00Z",
+    "name": "Alex Green",
+    "phone": "",
+    "deactivated": false
+  },
+  {
+    "id": 2,
+    "fullName": "Sam Lee",
+    "email": "sam.lee@example.com",
+    "role": "staff",
+    "createdAt": "2025-09-01T22:00:00Z",
+    "name": "Sam Lee",
+    "phone": "",
+    "deactivated": false
+  },
+  {
+    "id": 3,
+    "fullName": "Jordan Cruz",
+    "email": "jordan.cruz@example.com",
+    "role": "member",
+    "createdAt": "2025-09-01T22:00:00Z",
+    "name": "Jordan Cruz",
+    "phone": "",
+    "deactivated": false
+  },
+  {
+    "id": 4,
+    "fullName": "Taylor Singh",
+    "email": "taylor.singh@example.com",
+    "role": "member",
+    "createdAt": "2025-09-01T22:00:00Z",
+    "name": "Taylor Singh",
+    "phone": "",
+    "deactivated": false
+  },
+  {
+    "id": 5,
+    "fullName": "Morgan Wu",
+    "email": "morgan.wu@example.com",
+    "role": "member",
+    "createdAt": "2025-09-01T22:00:00Z",
+    "name": "Morgan Wu",
+    "phone": "",
+    "deactivated": false
+  },
+  {
+    "id": 6,
+    "fullName": "Bob Jobs",
+    "email": "jobsbobby@jobobus.com",
+    "role": "admin",
+    " createdAt": "2025-09-02T01:35:52.373Z",
+    "name": "Bob Jobs",
+    "phone": "",
+    "deactivated": false
+  },
+  {
+    "id": "621ef81a-f80f-4189-9c4a-c97c0d592bbd",
+    "name": "Test",
+    "email": "test@testmail.com",
+    "phone": "",
+    "role": "staff",
+    "deactivated": true,
+    "createdAt": "2025-09-04T04:14:00.724Z"
+  }
+]

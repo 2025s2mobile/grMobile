@@ -1,0 +1,8 @@
+[
+  { "id": 1, "fullName": "Alex Green",  "email": "alex@example.com",           "role": "Admin",     "createdAt": "2025-09-01T22:00:00Z" },
+  { "id": 2, "fullName": "Sam Lee",     "email": "sam.lee@example.com",        "role": "Staff",     "createdAt": "2025-09-01T22:00:00Z"},
+  { "id": 3, "fullName": "Jordan Cruz", "email": "jordan.cruz@example.com",    "role": "Volunteer", "createdAt": "2025-09-01T22:00:00Z" },
+  { "id": 4, "fullName": "Taylor Singh","email": "taylor.singh@example.com",   "role": "Community", "createdAt": "2025-09-01T22:00:00Z" },
+  { "id": 5, "fullName": "Morgan Wu",   "email": "morgan.wu@example.com",      "role": "Community", "createdAt": "2025-09-01T22:00:00Z" },
+  { "id": 6, "fullName": "Bob Jobs",   "email": "jobsbobby@jobobus.com",      "role": "Admin", " createdAt": "2025-09-02T01:35:52.373Z" }
+]
