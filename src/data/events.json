@@ -2,7 +2,7 @@
   {
     "id": 101,
     "title": "Morning Yoga REMOTE",
-    "date": "2025-11-05",
+    "date": "2025-11-18",
     "startTime": "07:30",
     "endTime": "08:30",
     "location": "Community Hall A",
@@ -15,7 +15,7 @@
   {
     "id": 102,
     "title": "Trivia Night REMOTE",
-    "date": "2025-11-12",
+    "date": "2025-11-18",
     "startTime": "19:00",
     "endTime": "21:00",
     "location": "Civic Centre",
@@ -28,7 +28,7 @@
   {
     "id": 103,
     "title": "Family Movie REMOTE",
-    "date": "2025-12-12",
+    "date": "2025-11-19",
     "startTime": "17:30",
     "endTime": "19:15",
     "location": "Open Air Park",
@@ -41,7 +41,7 @@
   {
     "id": 104,
     "title": "Acoustic Jam REMOTE",
-    "date": "2025-10-10",
+    "date": "2025-11-19",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Studio 2",
@@ -54,7 +54,7 @@
   {
     "id": 105,
     "title": "Cooking Workshop REMOTE",
-    "date": "2025-09-15",
+    "date": "2025-11-21",
     "startTime": "10:00",
     "endTime": "12:00",
     "location": "Kitchen Studio",
@@ -67,7 +67,7 @@
   {
     "id": 106,
     "title": "Book Club Meeting REMOTE",
-    "date": "2025-09-04",
+    "date": "2025-11-22",
     "startTime": "14:00",
     "endTime": "15:30",
     "location": "Library Conference Room",
@@ -80,7 +80,7 @@
   {
     "id": 107,
     "title": "Basketball Training REMOTE",
-    "date": "2025-09-25",
+    "date": "2025-11-23",
     "startTime": "16:00",
     "endTime": "18:00",
     "location": "Sports Complex Court 1",
@@ -93,7 +93,7 @@
   {
     "id": 108,
     "title": "Art Exhibition Opening REMOTE",
-    "date": "2025-10-05",
+    "date": "2025-11-24",
     "startTime": "18:30",
     "endTime": "21:00",
     "location": "Gallery Main Hall",
@@ -106,7 +106,7 @@
   {
     "id": 109,
     "title": "Meditation Circle REMOTE",
-    "date": "2025-09-18",
+    "date": "2025-11-25",
     "startTime": "19:00",
     "endTime": "20:00",
     "location": "Zen Garden Pavilion",
@@ -119,7 +119,7 @@
   {
     "id": 110,
     "title": "Pottery Class REMOTE",
-    "date": "2025-09-28",
+    "date": "2025-11-26",
     "startTime": "13:00",
     "endTime": "15:00",
     "location": "Art Studio B",
@@ -132,7 +132,7 @@
   {
     "id": 111,
     "title": "Community Garden Tour REMOTE",
-    "date": "2025-10-12",
+    "date": "2025-11-27",
     "startTime": "09:00",
     "endTime": "11:00",
     "location": "Riverside Community Garden",
@@ -145,7 +145,7 @@
   {
     "id": 112,
     "title": "Zumba Dance Fitness REMOTE",
-    "date": "2025-09-22",
+    "date": "2025-11-28",
     "startTime": "17:00",
     "endTime": "18:00",
     "location": "Dance Studio",
@@ -158,7 +158,7 @@
   {
     "id": 113,
     "title": "Photography Walk REMOTE",
-    "date": "2025-10-15",
+    "date": "2025-11-29",
     "startTime": "08:00",
     "endTime": "10:30",
     "location": "Heritage Trail",
@@ -171,7 +171,7 @@
   {
     "id": 114,
     "title": "Chess Tournament REMOTE",
-    "date": "2025-11-02",
+    "date": "2025-11-30",
     "startTime": "13:00",
     "endTime": "17:00",
     "location": "Community Hall B",
@@ -184,7 +184,7 @@
   {
     "id": 115,
     "title": "Wine Tasting Evening REMOTE",
-    "date": "2025-10-25",
+    "date": "2025-12-01",
     "startTime": "19:30",
     "endTime": "21:30",
     "location": "Vineyard Room",
@@ -197,7 +197,7 @@
   {
     "id": 116,
     "title": "Hiking Adventure REMOTE",
-    "date": "2025-09-04",
+    "date": "2025-12-02",
     "startTime": "07:00",
     "endTime": "12:00",
     "location": "Mountain Trail Parking",
@@ -210,7 +210,7 @@
   {
     "id": 117,
     "title": "Knitting Circle REMOTE",
-    "date": "2025-09-26",
+    "date": "2025-12-03",
     "startTime": "14:30",
     "endTime": "16:30",
     "location": "Craft Corner",
@@ -223,7 +223,7 @@
   {
     "id": 118,
     "title": "Science Fair REMOTE",
-    "date": "2025-11-05",
+    "date": "2025-12-04",
     "startTime": "10:00",
     "endTime": "16:00",
     "location": "School Gymnasium",
@@ -236,7 +236,7 @@
   {
     "id": 119,
     "title": "Salsa Dancing Lesson REMOTE",
-    "date": "2025-10-18",
+    "date": "2025-12-05",
     "startTime": "20:00",
     "endTime": "21:30",
     "location": "Dance Hall",
